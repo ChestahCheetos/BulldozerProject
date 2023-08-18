@@ -10,6 +10,9 @@ The data is collected from a Kaggle competition (https://www.kaggle.com/competit
 Install all requirements by run the following command
 
 > pip install requirements.txt
+>
+## Tools
+I used Python, Numpy, Pandas, Jupyter, Matplotlib, Seaborn, and Scikit-Learn.
     
 ## Author
 
