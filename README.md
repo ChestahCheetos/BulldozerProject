@@ -1,7 +1,7 @@
 
 # Bulldozer Sale Price Regression Prediciton
 
-This is a jupyter notebook that utilizes regression techniques to predict the sale price of bulldozers using historical data.  There are many features, but a lot of missing data as only some of data points were able to be collected for each sample.
+This is a jupyter notebook that utilizes regression techniques to predict the sale price of bulldozers using historical data.  In this project, I focused on improving my data cleaning and feature engineering skillset.  There are many features and a lot of missing data as only some of data points were able to be collected for each sample.
 
 The notebook is diveded into sections detailing the actions being taken.
 
