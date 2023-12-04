@@ -17,10 +17,23 @@ To set up the project environment, run the following command:
 
 ## Structure
 The notebook is organized into sections, each detailing the specific steps of the data science process:
-  1. Data Exploration
-  2. Data Cleaning and Preprocessing
-  3. Feature Engineering
-  4. Model Building and Evaluation
+
+1. Project Definition
+2. Data
+3. Evaluation
+4. Features
+5. Modeling
+    1. Import
+    2. Data Exploration
+    3. Parsing Dates
+    4. Feature Engineering
+    5. Datatype Conversion
+    6. Missing Values
+    7. Train Test Split
+    8. Testing & Tuning
+    9. Training Best Model
+    10. Preprocessing Test Set & Testing
+    11. Feature Importance
 
 ## Key Focus
   * Data Cleaning: Handling datasets with numerous features and missing values.
