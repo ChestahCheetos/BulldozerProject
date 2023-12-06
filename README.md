@@ -12,7 +12,9 @@ To set up the project environment, run the following command:
 
 ## Tools and Technologies
 **Programming Language:** Python
+
 **Libraries:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
+
 **Environment:** Jupyter Notebook
 
 ## Structure
