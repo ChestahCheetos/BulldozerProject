@@ -1,0 +1,7 @@
+# Ignore directories
+env/
+.ipynb_checkpoints/
+bluebook-for-bulldozers/
+
+# Ignore files
+*.csv
