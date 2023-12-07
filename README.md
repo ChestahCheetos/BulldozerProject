@@ -1,5 +1,5 @@
 
-# Bulldozer Price Prediciton Project
+# Bulldozer Price Prediction Project
 
 ## Overview
 
