@@ -5,3 +5,6 @@ bluebook-for-bulldozers/
 
 # Ignore files
 *.csv
+*.7z
+*.zip
+*.DS_Store
